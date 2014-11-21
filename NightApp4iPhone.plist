@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://file.easymorse.com/app/iOS/NightApp4iPhone/NightApp4iPhone.ipa</string>
+					<string>http://zhangyaoyun.qiniudn.com/NightApp4iPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://file.easymorse.com/app/iOS/NightApp4iPhone/Icon@2x.png</string>
+					<string>http://zhangyaoyun.qiniudn.com/yeseIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
