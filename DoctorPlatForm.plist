@@ -11,21 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://file.easymorse.com/app/iOS/callme_ios_hb/callme_ios_hb.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://file.easymorse.com/app/iOS/callme_ios_hb/callme_ios_hb.png</string>
+					<string>http://ojyrhqn2s.bkt.clouddn.com/DoctorPlatForm.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.witmob.callme</string>
+				<string>com.xywy.expertpro</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -33,7 +25,7 @@
 				<key>subtitle</key>
 				<string>北京阅微灵动科技有限公司</string>
 				<key>title</key>
-				<string>callme</string>
+				<string>医脉</string>
 			</dict>
 		</dict>
 	</array>
